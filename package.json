@@ -3,7 +3,6 @@
   "version": "1.0.1",
   "description": "WhatsApp session bot using Baileys",
   "main": "./itxxwasi.js",
-  "type": "module",
   "engines": {
     "npm": ">=9.7.2",
     "node": ">=20.0.0"
